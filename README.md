@@ -16,7 +16,7 @@ All datasets are released under **MIT license** and hosted in the [`data/`](data
 
 | Dataset | Domain | Samples | Components | Properties | Source |
 |---------|--------|----------|-------------|------------|--------|
-| **LCE_23** | Li/Cu half-cell | 151 | 2–6 | Coulombic efficiency (CE) | [Kim et al. 2023](https://doi.org/10.1039/D3DD00063A) |
+| **LCE_23** | Li/Cu half-cell | 151 | 2–6 | Coulombic efficiency (CE) | [Kim et al. 2023](https://doi.org/10.1073/pnas.2214357120) |
 | **LiquidCond** | liquid electrolytes | 3,114 | 2–5 | Ionic conductivity (σ) | [Bradford et al. 2023](https://pubs.acs.org/doi/10.1021/acscentsci.2c01181) |
 | **SolidCond** | quasi-solid electrolytes | 11,186 | 2–5 | Ionic conductivity (σ) | [Bradford et al. 2023](https://pubs.acs.org/doi/10.1021/acscentsci.2c01181) |
 | **LCE_25*** | Li/Cu half-cell | 673 | 2–6 | Coulombic efficiency (CE) | This work (to be released) |
