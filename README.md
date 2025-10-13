@@ -23,6 +23,7 @@ All datasets are released under **MIT license** and hosted in the [`data/`](data
 
 > **LCE_25** extends LCE_23 with all publicly available studies up to **May 2025**; **zero overlap** with LCE_23. **These four datasets constitute the most comprehensive electrolyte formulation library publicly available to date, covering all commonly used components.**
 > 
-# After paper acceptance, the **full curated splits**, **pre-processing scripts**, and **all model code** will also be made available in this repository.
+# This repository currently contains the model implementation and a partial dataset.  
+The **complete curated dataset** will be released upon **paper acceptance**..
 
 
