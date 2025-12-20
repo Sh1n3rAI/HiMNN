@@ -25,7 +25,7 @@ All datasets are released under **MIT license** and hosted in the [`data/`](data
 
 ## 📈 Dataset Statistics
 
-<h2 align="center">Property value ranges</h1>
+<h2 align="center">Sample distribution across component counts</h1>
 
 ![Sample Distribution](image/distribution.png)
 
