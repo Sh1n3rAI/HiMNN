@@ -28,11 +28,11 @@ All datasets are released under **MIT license** and hosted in the [`data/`](data
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="distribution.png" alt="Sample distribution by component count" width="100%"/><br>
+      <img src="image/distribution.png" alt="Sample distribution by component count" width="100%"/><br>
       <b>Sample Distribution by Components</b>
     </td>
     <td align="center" width="50%">
-      <img src="description.png" alt="Property value ranges" width="100%"/><br>
+      <img src="image/description.png" alt="Property value ranges" width="100%"/><br>
       <b>Property Value Ranges</b>
     </td>
   </tr>
