@@ -29,7 +29,7 @@ All datasets are released under **MIT license** and hosted in the [`data/`](data
 
 ![Sample Distribution](image/distribution.png)
 
-###<h2 align="center">Property value ranges</h3>
+<h2 align="center">Property value ranges</h3>
 
 ![Property Ranges](image/description.png)
 
